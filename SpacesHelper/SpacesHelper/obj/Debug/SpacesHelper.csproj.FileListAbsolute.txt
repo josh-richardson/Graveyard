@@ -1,0 +1,14 @@
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\SpacesHelper.exe
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\SpacesHelper.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\InputSimulator.dll
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\InputSimulator.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\InputSimulator.xml
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.csprojResolveAssemblyReference.cache
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.Properties.Resources.resources
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.csproj.GenerateResource.Cache
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.exe
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\VirtualDesktop.dll
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\VirtualDesktop.pdb
+D:\Users\Joshua\documents\visual studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\Users\Joshua\documents\visual studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.frmMain.resources

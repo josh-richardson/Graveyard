@@ -1,0 +1,15 @@
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\SpacesHelper.exe.config
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\SpacesHelper.exe
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\SpacesHelper.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\InputSimulator.dll
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\VirtualDesktop.dll
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\XnaFan.ImageComparison.dll
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\InputSimulator.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\InputSimulator.xml
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\VirtualDesktop.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Release\XnaFan.ImageComparison.pdb
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Release\SpacesHelper.Form1.resources
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Release\SpacesHelper.Properties.Resources.resources
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Release\SpacesHelper.csproj.GenerateResource.Cache
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Release\SpacesHelper.exe
+D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Release\SpacesHelper.pdb
