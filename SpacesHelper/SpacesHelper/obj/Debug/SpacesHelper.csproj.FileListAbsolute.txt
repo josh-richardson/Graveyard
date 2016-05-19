@@ -12,3 +12,5 @@ D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\
 D:\Users\Joshua\Documents\Visual Studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\VirtualDesktop.pdb
 D:\Users\Joshua\documents\visual studio 2015\Projects\SpacesHelper\SpacesHelper\bin\Debug\Gma.System.MouseKeyHook.dll
 D:\Users\Joshua\documents\visual studio 2015\Projects\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.frmMain.resources
+D:\Users\Joshua\Dropbox\Projects\Archived\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.exe
+D:\Users\Joshua\Dropbox\Projects\Archived\SpacesHelper\SpacesHelper\obj\Debug\SpacesHelper.pdb

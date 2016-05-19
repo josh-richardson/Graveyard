@@ -1,0 +1,8 @@
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Release\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Release\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Release\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Release\ConsoleMediaCoderSolver.Resources.resources
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Release\ConsoleMediaCoderSolver.vbproj.GenerateResource.Cache
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Release\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Release\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Release\ConsoleMediaCoderSolver.pdb

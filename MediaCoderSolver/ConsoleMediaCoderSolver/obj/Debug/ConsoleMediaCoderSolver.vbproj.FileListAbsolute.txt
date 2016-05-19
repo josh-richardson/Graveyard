@@ -1,0 +1,20 @@
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.exe
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.pdb
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.xml
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.Resources.resources
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.exe
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.xml
+c:\users\joshua\documents\visual studio 2013\Projects\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.pdb
+C:\Users\Joshua\Dropbox\Public\Projects\VB\Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.exe
+C:\Users\Joshua\Dropbox\Public\Projects\VB\Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.xml
+C:\Users\Joshua\Dropbox\Public\Projects\VB\Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbprojResolveAssemblyReference.cache
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.Resources.resources
+D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbproj.GenerateResource.Cache
